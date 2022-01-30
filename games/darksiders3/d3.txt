@@ -1,0 +1,78 @@
+# heaven
+## Maker's forge
+h01. Flame. From 3rd floor of forge you can use whip to jump over chasm. On the very top of second building, behind barricades.
+h02. Storm. There are 3 buildings on the left from path to Scyscraper Vulgrim location from Maker's forge. You can access them only with Storm hollow. Behind barricades in middle building
+
+## Crossroads
+h03. None. Story related
+h04. Force. "Upper left corner" if you look from lift to Maker's forge. There is a building with 4 handed blue deamon. Behind barricades
+## North end
+lv01. Fire. On a balcony above barricades. To get there from Vulgrim turn left till you get to root growing out of the ground. Whip jump to next root. move towards Vulgrim and you will see possibility to another whip 2 x jump. After second jump fire jump to get to balcony
+h05. Force (purple bug). From Vulgrim move straight forward. Eventually you will find purple wall on your right not far from campfire.
+h06. None. From Vulgrim move straight forward till you drop down to some green/grass area. Find and use tunnel.
+
+# Nether
+## atrium of greed
+lv02. None. Drop by Avarice
+## splintered station
+lv03. None. Drop by Sloth
+h07. None. From Vulgrim go towards Wrath. Tunnel in room with serpantine road (you will need bug to exit this room)
+
+## cistern
+lv04. None. Under water, check room behind pipe next to waterfall
+h08. None. Go upstairs
+
+## tangled grotto
+h09. None. Find tunnel you can get to via roof of rail car. From Vulgrim go left, very soon you will get to split path. To the right you will see steps up. Go left. I.e. you need to get to other side of wall near teleport
+h10. Fire. From Vulgrim go left and at split path – right, upstairs. Fire jump to enter labirinth. Straigh, drop down, (first round room) right exit, right on split path, up (green area), fire jump
+h11. Fire. From Vulgrim go left and at split path – right, upstairs. Fire jump to enter labirinth. Straigh, drop down, (first round room) drop down near right exit, follow long coridor, jump up, at exit of this room you just jump to
+
+# Hollows
+# the Lord of Hollows' chamber
+lv05. Fire. Beneatch Lord of Hollow, jump into lava and check left side island if you facing exit
+# the catacombs
+lv06. None. At foot of statue you need to activate
+
+# Bonelands
+## Fetering pool.
+h12. None. Area where you need to use bug to make a hole in the wall to get to angels outpost. Check behind boxes
+## Drownned district
+lv07. Force. Behind force wall you can destroy with bug
+h13. Fire, storm, salvation. From Vulgrim, follow story path till you need to whip jump over water using 2 pipes. Once you did this jump look around. There is cobweb on your left
+## Mangled freeway
+h14. None. Crawl through tunnel next to Vulgrim
+lv08. None. Tunnel, drop down from first room and drop down again from coridor. Now turn left and find tunnel behind boxes
+## cargo ship
+lv09. None. Lust drop
+h15. None. After you get force ability and right before you use it to banish octopus, there is a side path you can take by storm gliding off some boxes over acid. Go left and climb to roof of second floor. Enter building through hole and search big area of second floor
+
+# Depth
+## forgotten lake
+lv10. None. First floor of building from which you can get to chosen (skelet)
+## Eroded pipeline
+h16. Fire. Go into hole in wall near Vulgrim. Fire jump. Fire jump. Look right, there is platform you can fire jump onto. And broken wall you can fir jump over
+lv11. None. Glutony drop
+## Sunken tracks
+h17. Stasis, force. Use stasis to climb up near Vulgrim. Whip jump and use force to glue yourcelf to ceiling. Check next area, behind force wall.
+lv12. Stasis, force. Same area as h17.
+## Sewage egress
+h18. Stasis. Stasis wall near Vulgim. Room behind boxes
+
+# Scar
+## Drilling annex
+h19. Stasis, force. In big, open area, right after Vulgrim, climb up 2 sets of stasis walls and check behind barricades
+## The Lowlands
+lv13. None. In the corner of Abraxis lair
+lv14. None. Now tempest free area. From second metro exit look towards third metro entrance. To the left from this line
+## Chasm overlook
+h20. Stasis. First floor of area before the Grock (lst chosen?) Freeze thresher and check roob under it
+## refinery
+lv15. None. Area where you defeat tempest
+## Dust hills
+lv16. None. Kill Wrath
+
+# Keeper's of the Void DLC
+## fire hallow wing
+lv17. Force. Last puzzle in this wing. First 'button', use force ability
+## stasis hallow wing
+lv18. None. When you find first sphere yuy need to get to it's base, check water under this sphere
